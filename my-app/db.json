@@ -1,0 +1,71 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Diamond Halo Stud Cum",
+            "price": "$628.00",
+            "rating": 4,
+            "image": "https://vinova-furstore.myshopify.com/cdn/shop/products/32_260x.jpg?v=1694678290",
+            "hoverImage": "https://vinova-furstore.myshopify.com/cdn/shop/products/13_260x.jpg?v=1694678199"
+        },
+        {
+            "id": 2,
+            "name": "Diamond Halo Stud Sociis",
+            "price": "$200.00",
+            "rating": 4,
+            "image": "https://vinova-furstore.myshopify.com/cdn/shop/products/21_260x.jpg?v=1694678180",
+            "hoverImage": "https://vinova-furstore.myshopify.com/cdn/shop/products/15_260x.jpg?v=1694678110"
+        },
+        {
+            "id": 3,
+            "name": "Diamond Halo Stud Quis",
+            "price": "$736.00",
+            "rating": 4,
+            "image": "https://vinova-furstore.myshopify.com/cdn/shop/products/18_260x.jpg?v=1694678145",
+            "hoverImage": "https://vinova-furstore.myshopify.com/cdn/shop/products/13_260x.jpg?v=1694678199"
+        },
+        {
+            "id": 4,
+            "name": "Diamond Halo Stud Quis",
+            "price": "$636.00",
+            "rating": 4,
+            "image": "https://vinova-furstore.myshopify.com/cdn/shop/products/12_360x.jpg?v=1694678190",
+            "hoverImage": "https://vinova-furstore.myshopify.com/cdn/shop/products/13_260x.jpg?v=1694678199",
+            "sell": "20%"
+        }
+    ],
+    "modals": [
+        {
+            "id": 1,
+            "sku": "THJ-1",
+            "category": "Armchair, Bathroom, Bookshelf, Clock, Hanging Light",
+            "size": "Small",
+            "color": "Darkcyan",
+            "quantity": 5
+        },
+        {
+            "id": 2,
+            "sku": "THJ-2",
+            "category": "Chair, Table, Sofa",
+            "size": "Medium",
+            "color": "Blue",
+            "quantity": 10
+        },
+        {
+            "id": 3,
+            "sku": "THJ-3",
+            "category": "Sofa, Table, Chair",
+            "size": "Large",
+            "color": "Gray",
+            "quantity": 3
+        },
+        {
+            "id": 4,
+            "sku": "THJ-4",
+            "category": "Chair, Sofa, Table",
+            "size": "Small",
+            "color": "Black",
+            "quantity": 8
+        }
+    ]
+}
